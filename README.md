@@ -3,6 +3,7 @@ Phase separation directs ubiquitination of gene body nucleosomes
 Laura D. Gallego,1,* Maren Schneider,1,* Chitvan Mittal,2,* Anete Romanauska,1 Ricardo M. Gudino Carrillo,1 Tobias Schubert,1 B. Franklin Pugh,2 and Alwin Köhler1,#
 
 1 Max Perutz Labs, Medical University of Vienna, Vienna Biocenter Campus (VBC), Dr. Bohr-Gasse 9/3, 1030 Vienna, Austria
+
 2 Department of Biochemistry and Molecular Biology, Center for Eukaryotic Gene Regulation, Pennsylvania State University, University Park, PA 16802, USA
 
 * These authors contributed equally to this work
